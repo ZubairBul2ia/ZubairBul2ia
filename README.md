@@ -19,5 +19,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Image](https://github.com/SsjZabster/SsjZabster/blob/main/kobayashi-san-chi-no-maid-dragon-anime.gif)
+<p align="center">
+  <img src="https://github.com/SsjZabster/SsjZabster/blob/main/kobayashi-san-chi-no-maid-dragon-anime.gif?raw=true" alt="Sublime's custom image"/>
+</p>
+<!-- ![Image](https://github.com/SsjZabster/SsjZabster/blob/main/kobayashi-san-chi-no-maid-dragon-anime.gif) -->
 <!-- ![Image](https://github.com/SsjZabster/SsjZabster/blob/main/imgbin.png) -->
