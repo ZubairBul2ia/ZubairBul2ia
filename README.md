@@ -1,5 +1,6 @@
 ### Hello! 👋
 I'm Zubair, welcome to my github!  
+
 I am currently pursuing my MSc in Computer Science at the University of the Witwatersrand.    
 I'm interested in using computing and software as ways to positively impact and add value for people and what they do.  
 I'm also pretty interested in Machine Learning, including computer vision and deep learning methods!  
@@ -25,3 +26,6 @@ Here are some ideas to get you started:
 </p>
 <!-- ![Image](https://github.com/SsjZabster/SsjZabster/blob/main/kobayashi-san-chi-no-maid-dragon-anime.gif) -->
 <!-- ![Image](https://github.com/SsjZabster/SsjZabster/blob/main/imgbin.png) -->
+
+<br/>
+<br/>
