@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Image](https://github.com/SsjZabster/SsjZabster/blob/main/imgbin.png)
+![Image](https://github.com/SsjZabster/SsjZabster/blob/main/kobayashi-san-chi-no-maid-dragon-anime.gif)
+<!-- ![Image](https://github.com/SsjZabster/SsjZabster/blob/main/imgbin.png) -->
