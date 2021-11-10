@@ -3,7 +3,8 @@ I'm Zubair, welcome to my github!
 I am currently pursuing my MSc in Computer Science at the University of the Witwatersrand.    
 I'm interested in using computing and software as ways to positively impact and add value for people and what they do.  
 I'm also pretty interested in Machine Learning, including computer vision and deep learning methods!  
-
+<br/>
+<br/>
 
 <!--
 **SsjZabster/SsjZabster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
